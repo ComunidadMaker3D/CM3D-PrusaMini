@@ -14,7 +14,7 @@ The external appearance for the M8 and M10 version are under development but are
 In order to assembly it you will need:
 
     5 M3x40mm screws
-    1 M3x10mm screw
+    3 M3x10mm screw
     1 complete dual gear kit 
 
 In case that the magnets had any kind of movement inside the holes you can use a little piece of paper in order to tight the magnets.
